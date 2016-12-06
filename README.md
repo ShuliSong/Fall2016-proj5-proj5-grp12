@@ -12,9 +12,10 @@ Term: Fall 2016
 	+ Huilong An ha2399@columbia.edu
 	
 ### Data Scource: [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge)
-       + 2.7M reviews and 649K tips by 687K users for 86K businesses
-       + 566K business attributes, e.g., hours, parking availability, ambience.
-       + 9 cities across 4 countires: U.K.: Edinburgh, Germany: Karlsruhe, Canada: Montreal, U.S.: Pittsburgh, Charlotte, Urbana-Champaign, Phoenix, Las Vegas, Madison
+      
+  + 2.7M reviews and 649K tips by 687K users for 86K businesses
+  + 566K business attributes, e.g., hours, parking availability, ambience.
+  + 9 cities across 4 countires: U.K.: Edinburgh, Germany: Karlsruhe, Canada: Montreal, U.S.: Pittsburgh, Charlotte, Urbana-Champaign, Phoenix, Las Vegas, Madison
 
 
 ### Project summary: 
