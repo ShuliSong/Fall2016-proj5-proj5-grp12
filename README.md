@@ -22,8 +22,10 @@ Term: Fall 2016
 
   + Build Database 
   
+  
   + Build Website using Flask Python
-
+  1. RESTful Based
+  2. Request 'user_id' and other information from html
   + Recommendation System
   
   + Overview Statistics EDA
