@@ -10,7 +10,12 @@ Term: Fall 2016
 	+ Shuli Song ss4962@columbia.edu
 	+ Xuechun Sun xs2254@columbia.edu
 	+ Huilong An ha2399@columbia.edu
-	
+### Yelp Review System Installation: [Dropbox Link](https://www.yelp.com/dataset_challenge)
+  + Download the "app" file by clicking droxbox link above (due to the size of database, we cannot upload files on github)
+  + Set up required environment specified in 'requirement.txt' (We support Python 2.7).
+  + Run ```python app.py```
+
+
 ### Data Scource: [Yelp Dataset Challenge](https://www.yelp.com/dataset_challenge)
       
   + 2.7M reviews and 649K tips by 687K users for 86K businesses
