@@ -1,8 +1,8 @@
-# ADS Final Project: 
+# ADS Final Project: Yelp Review System
 
 Term: Fall 2016
 
-+ Team Name:
++ Team Name: Group 12
 + Projec title: Yelp Review System
 + Team members
 	+ Jiayi Wang jw3316@columbia.edu
