@@ -24,9 +24,9 @@ Term: Fall 2016
   
   
   + Build Website using Flask Python
-    + RESTful Based
-    + Request 'user_id' and other information from html
-  
+    + RESTful Based 
+    + Request 'user_id' and other information from html and use ajax (based on javascript) for transfering information
+    + 
   + Recommendation System
   
   + Overview Statistics EDA
