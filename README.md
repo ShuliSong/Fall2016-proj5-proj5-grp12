@@ -38,17 +38,31 @@ Term: Fall 2016
     2. **Prediction generation:** If we target item j, given a similarity between items i and j, S(i,j), it scores an item j for user using a weighted average of user's previous observation ratings. Prediction for Item j is computed as:
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/recom_prediction.jpeg)
     
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize5.png)
   
   + Overview Statistics EDA
   
      + Visualizations of business data, user data and review data, including a worldwide map of user distribution, a detailed map of user distribution by city, an animated donut plot of register users by year, a bar plot of top5 cuisine type by city, a stacked plot of rating distribution by city, a correlation heatmap of review frequency and number of fans and an interactive chord diagram between type of votes and average review.
      
+     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview1.png)
+     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview2.png)
+     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview3.png)
+     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview4.png)
+     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview5.png)
+     
+     
   + Individual Statistics EDA
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize1.png)
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize2.png)
   
     + Individual review text word cloud
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize3.png)
     + Overview of individual selected restaurants 
     + Statistical summary of individual ratings 
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize4.png)
     
+    
+   
   + NLP Word Cloud
   
     + Overview word cloud based on star rating 1 ~ 5
