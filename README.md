@@ -24,11 +24,13 @@ Term: Fall 2016
   
   
   + Build Website using Flask Python
-  1. RESTful Based
-  2. Request 'user_id' and other information from html
+    + RESTful Based
+    + Request 'user_id' and other information from html
+  
   + Recommendation System
   
   + Overview Statistics EDA
+     + Visualizations of business data, user data and review data, including a worldwide map of user distribution, a detailed map of user distribution by city, an animated donut plot of register users by year, a bar plot of top5 cuisine type by city, a stacked plot of rating distribution by city, a correlation heatmap of review frequency and number of fans and an interactive chord diagram between type of votes and average review.
   
   + NLP Word Cloud
   
