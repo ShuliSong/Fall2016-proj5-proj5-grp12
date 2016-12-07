@@ -29,7 +29,7 @@ Term: Fall 2016
   
   + Recommendation System
     + Item based similarity recommendar
-       + 1. This model computes the similarity between items using the observations of users who have interacted with both items.For similarity here, we choose Cosine similarity, which is computed as:
+       - 1. This model computes the similarity between items using the observations of users who have interacted with both items.For similarity here, we choose Cosine similarity, which is computed as:
       
   
   + Overview Statistics EDA
