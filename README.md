@@ -31,7 +31,7 @@ Term: Fall 2016
     + 1. This model computes the similarity between items using the observations of users who have interacted with both items.	For similarity here, we choose Cosine similarity, which is computed as:
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/Cosine_similarity_recom.jpeg)
     where Ui is the set of users who rated item i, and Uij is the set of users who rated both items i and j. 
-     + 2. Given a similarity bteween items i and j, S(1,j), it scores an item j for user using a weighted average of user's previous observation Iu.
+    + 2. Given a similarity bteween items i and j, S(1,j), it scores an item j for user using a weighted average of user's previous observation Iu.
   
   + Overview Statistics EDA
      + Visualizations of business data, user data and review data, including a worldwide map of user distribution, a detailed map of user distribution by city, an animated donut plot of register users by year, a bar plot of top5 cuisine type by city, a stacked plot of rating distribution by city, a correlation heatmap of review frequency and number of fans and an interactive chord diagram between type of votes and average review.
