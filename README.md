@@ -28,10 +28,11 @@ Term: Fall 2016
     + Request 'user_id' and other information from html and use ajax (based on javascript) for transfering information
   
   + Item based similarity recommendar
-  	+ 2. Given a similarity bteween items i and j, S(1,j), it scores an item j for user using a weighted average of user's previous observation Iu.
+  	
 	+ 1. This model computes the similarity between items using the observations of users who have interacted with both items.	For similarity here, we choose Cosine similarity, which is computed as:
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/Cosine_similarity_recom.jpeg)
     where Ui is the set of users who rated item i, and Uij is the set of users who rated both items i and j.
+    	+ 2. Given a similarity bteween items i and j, S(1,j), it scores an item j for user using a weighted average of user's previous observation Iu.
     
     
     
