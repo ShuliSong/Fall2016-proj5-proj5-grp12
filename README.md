@@ -25,11 +25,11 @@ Term: Fall 2016
   
   + Build Website using Flask Python
     + RESTful Based 
-    + Request 'user_id' and other information from html and use ajax (based on javascript) for transfering information
+    + Request 'user_id' and other information from html and use ajax (based on javascript) for transfering information
   
   + Item based similarity recommendar
     + This model computes the similarity between items using the observations of users who have interacted with both items.	For similarity here, we choose Cosine similarity, which is computed as:
-    ![image](https://s-media-cache-ak0.pinimg.com/236x/6b/01/3c/6b013cd759c69d17ffd1b67b3c1fbbbf.jpg)
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/WechatIMG2.jpeg)
        
       
   
