@@ -74,7 +74,7 @@ Term: Fall 2016
     + Overview word cloud based on star rating 1 ~ 5
     + Individual word cloud based on history review text dataset
     
-    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview5.png)
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview6.png)
   
   
   
