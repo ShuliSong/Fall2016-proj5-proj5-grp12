@@ -31,7 +31,10 @@ Term: Fall 2016
     
     + 
   + Recommendation System
-  
+    + Item based similarity recommendar
+      ＋ 1. This model computes the similarity between items using the observations of users who have interacted with both items.For similarity here, we choose Cosine similarity, which is computed as:
+      
+  
   + Overview Statistics EDA
      + Visualizations of business data, user data and review data, including a worldwide map of user distribution, a detailed map of user distribution by city, an animated donut plot of register users by year, a bar plot of top5 cuisine type by city, a stacked plot of rating distribution by city, a correlation heatmap of review frequency and number of fans and an interactive chord diagram between type of votes and average review.
   + Individual Statistics EDA
