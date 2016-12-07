@@ -38,7 +38,6 @@ Term: Fall 2016
     + Individual review text word cloud
     + Overview of individual selected restaurants 
     + Statistical summary of individual ratings 
-  
   + NLP Word Cloud
     + Overview word cloud based on star rating 1 ~ 5
     + Individual word cloud based on history review text dataset
