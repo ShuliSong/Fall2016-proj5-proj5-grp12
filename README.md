@@ -24,9 +24,12 @@ Term: Fall 2016
   
   + Build Website using Flask Python
 
-  + Overview Statistics
-  
   + Recommendation System
+  
+  + Overview Statistics EDA
+  
+  + NLP Word Cloud
+  
   
   
   
