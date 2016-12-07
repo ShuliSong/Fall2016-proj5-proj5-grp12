@@ -12,7 +12,7 @@ Term: Fall 2016
 	+ Huilong An ha2399@columbia.edu
 	
 	
-### Yelp Review System Installation: [Dropbox Link](https://www.yelp.com/dataset_challenge)
+### Yelp Review System Installation: [Dropbox Link](https://www.dropbox.com/sh/2t8netierfalnr0/AACqnX1LW-1Ert5UcuZOGjXSa?dl=0)
   + Download the "app" file by clicking droxbox link above (due to the size of database, we cannot upload files on github)
   + Set up required environment specified in 'requirement.txt' (We support Python 2.7).
   + Run ```python app.py```
