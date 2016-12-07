@@ -33,6 +33,7 @@ Term: Fall 2016
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/Cosine_similarity_recom.jpeg)
     where Ui is the set of users who rated item i, and Uij is the set of users who rated both items i and j.
     	+ 2.  prediction generation: If we target itme j, given a similarity between items i and j, S(i,j), it scores an item j for user using a weighted average of user's previous observation ratings.
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/recom_prediction.jpeg)
     
     
     
