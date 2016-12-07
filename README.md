@@ -55,10 +55,14 @@ Term: Fall 2016
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize1.png)
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize2.png)
   
-    + Individual review text word cloud
+    1.  Individual review text word cloud
+    
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize3.png)
-    + Overview of individual selected restaurants 
-    + Statistical summary of individual ratings 
+    
+    2.  Overview of individual selected restaurants 
+    
+    3.  Statistical summary of individual ratings 
+    
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize4.png)
     
     
