@@ -19,6 +19,8 @@ Term: Fall 2016
 
 
 ### Project summary: 
+  ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/homepage.png)
+
 
   + Build Database 
   
