@@ -20,10 +20,16 @@ Term: Fall 2016
 
 ### Project summary: 
 
+  + Build Database 
+  
+  + Build Website using Flask Python
+
   + Overview Statistics
   
   + Recommendation System
-
+  
+  
+  
 ### Outlook
 
 ### Tools
