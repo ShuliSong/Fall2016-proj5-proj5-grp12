@@ -48,20 +48,22 @@ Term: Fall 2016
      ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview2.png)
      ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview3.png)
      ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview4.png)
-     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview5.png)
+     
      
      
   + Individual Statistics EDA
+    
+    0.  **Website page**
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize1.png)
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize2.png)
   
-    1.  Individual review text word cloud
+    1.  **Individual review text word cloud**
     
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize3.png)
     
-    2.  Overview of individual selected restaurants 
+    2.  **Overview of individual selected restaurants** 
     
-    3.  Statistical summary of individual ratings 
+    3.  **Statistical summary of individual ratings** 
     
     ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/customize4.png)
     
@@ -71,6 +73,8 @@ Term: Fall 2016
   
     + Overview word cloud based on star rating 1 ~ 5
     + Individual word cloud based on history review text dataset
+    
+    ![image](https://github.com/TZstatsADS/Fall2016-proj5-proj5-grp12/blob/master/figs/overview5.png)
   
   
   
