@@ -30,7 +30,9 @@ Term: Fall 2016
 
 
   + Build Database 
-  
+    + Build the database by using sqlite3 in Python (Traditional relational database)
+    + Write a class named 'minidatabase' to encapsulate query methods needed
+    + Everytime just need to import recommender and connect to built database by minibase
   
   + Build Website using Flask Python
     + RESTful Based 
